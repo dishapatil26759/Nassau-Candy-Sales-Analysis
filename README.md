@@ -99,7 +99,27 @@ the data using filters and visualizations.
 
 [Open Interactive Dashboard](Dashboard/Nassau-Candy-Performance-Dashboard.html)
 
---
+## 📈 Dashboard Preview
+
+### 1. Overall Performance & KPIs
+
+![Dashboard Overview](Images/1.png)
+
+### 2. Product Profitability Overview
+
+![Product Profitability](Images/2.png)
+
+### 3. Division Performance
+
+![Division Performance](Images/3.png)
+
+### 4. Cost vs. Margin Diagnostics
+
+![Cost vs Margin Diagnostics](Images/4.png)
+
+### 5. Profit Concentration Analysis
+
+![Profit Concentration Analysis](Images/5.png)
 
 
 
